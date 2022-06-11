@@ -1,0 +1,9 @@
+{
+  "name": "rxdom",
+  "version": "1.0.0",
+  "description": "Rxdom est une bibliothèque simple pour créer des composants Web rapides et légers.",
+  "main": "rxdom.js",
+  "repository": "https://github.com/WAROL52/rxdom.git",
+  "author": "warol52",
+  "license": "MIT"
+}
